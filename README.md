@@ -53,3 +53,6 @@ The user should be able to login in order to see an extreemlysecret.html site. T
 **Det med småt**    
 Hvis denne opgave ikke afleveres, dvs. afleveres på fronter og vises for Claus, mister i et eksamensforsøg til 1 års eksamenen til jul.
 
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
